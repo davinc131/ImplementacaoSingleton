@@ -1,0 +1,13 @@
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\bin\Debug\netcoreapp3.1\ImplementacaoSingleton.exe
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\bin\Debug\netcoreapp3.1\ImplementacaoSingleton.deps.json
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\bin\Debug\netcoreapp3.1\ImplementacaoSingleton.runtimeconfig.json
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\bin\Debug\netcoreapp3.1\ImplementacaoSingleton.runtimeconfig.dev.json
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\bin\Debug\netcoreapp3.1\ImplementacaoSingleton.dll
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\bin\Debug\netcoreapp3.1\ImplementacaoSingleton.pdb
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.csprojAssemblyReference.cache
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.AssemblyInfoInputs.cache
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.AssemblyInfo.cs
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.csproj.CoreCompileInputs.cache
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.dll
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.pdb
+C:\Users\davin\source\repos\Padroes_De_Projeto\ImplementacaoSingleton\ImplementacaoSingleton\obj\Debug\netcoreapp3.1\ImplementacaoSingleton.genruntimeconfig.cache
